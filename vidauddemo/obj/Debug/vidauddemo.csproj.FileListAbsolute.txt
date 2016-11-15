@@ -1,0 +1,14 @@
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\App.g.i.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\App.g.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\BlankPage1.g.i.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\BlankPage1.g.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\MainPage.g.i.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\MainPage.g.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\App.xaml
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\BlankPage1.xaml
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\MainPage.xaml
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\App.xbf
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\BlankPage1.xbf
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\MainPage.xbf
+C:\Users\aruna\documents\visual studio 2015\Projects\vidauddemo\vidauddemo\obj\Debug\XamlSaveStateFile.xml
